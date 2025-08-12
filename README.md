@@ -23,3 +23,17 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allwin303&show_icons=true&locale=en&layout=compact" alt="allwin303" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allwin303&show_icons=true&locale=en" alt="allwin303" /></p>
+<!-- Social Icons -->
+<p style="margin-top: 20px;">
+    <a href="mailto:allwingeorge396@gmail.com">
+        <img src="https://img.icons8.com/ios-glyphs/30/2bd4a3/new-post.png" style="margin-right: 12px;"/>
+    </a>
+    <a href="https://www.linkedin.com/in/allwin-g-6a2303332VanityURLnameutm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+        <img src="https://img.icons8.com/ios-glyphs/30/2bd4a3/linkedin.png" style="margin-right: 12px;"/>
+    </a>
+    <a href="https://www.instagram.com/all_win_._303?igsh=MXFhdWY5Z200bWtvaQ==">
+        <img src="https://img.icons8.com/ios-glyphs/30/2bd4a3/instagram-new.png"/>
+    </a>
+</p>
+
+</div>
