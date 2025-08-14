@@ -6,11 +6,20 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📝 instagram [https://www.instagram.com/all_win_._303?igsh=MXFhdWY5Z200bWtvaQ==](https://www.instagram.com/all_win_._303?igsh=MXFhdWY5Z200bWtvaQ==)
+<!-- Social Icons -->
+<p style="margin-top: 20px;">
+    <a href="mailto:allwingeorge396@gmail.com">
+        <img src="https://img.icons8.com/ios-glyphs/30/2bd4a3/new-post.png" style="margin-right: 12px;"/>
+    </a>
+    <a href="https://www.linkedin.com/in/allwin-g-6a2303332VanityURLnameutm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+        <img src="https://img.icons8.com/ios-glyphs/30/2bd4a3/linkedin.png" style="margin-right: 12px;"/>
+    </a>
+    <a href="https://www.instagram.com/all_win_._303?igsh=MXFhdWY5Z200bWtvaQ==">
+        <img src="https://img.icons8.com/ios-glyphs/30/2bd4a3/instagram-new.png"/>
+    </a>
+</p>
 
-- 📫 How to reach me **allwingeorge396@gmail.com**
-
-- 📄 linkdin [www.linkedin.com/in/ allwin-g-6a2303332 Vanity URL name](www.linkedin.com/in/ allwin-g-6a2303332 Vanity URL name)
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
