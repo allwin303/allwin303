@@ -8,8 +8,9 @@
    </p>
 
 <p align="center">
-  <img src="https:![Image](https://github.com/user-attachments/assets/68ec0b7e-8d25-4a40-9f32-7c8dab92ddcc)//github.com/your-username/your-username/blob/main/profile-pic.png" width="200" />
+  <img src="https://github.com/user-attachments/assets/68ec0b7e-8d25-4a40-9f32-7c8dab92ddcc" width="300" alt="Image" />
 </p>
+
 
 ###
 
