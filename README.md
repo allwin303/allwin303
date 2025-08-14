@@ -25,6 +25,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allwin303&show_icons=true&locale=en&layout=compact" alt="allwin303" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allwin303&show_icons=true&locale=en" alt="allwin303" /></p>
+<p>&nbsp;<img align="center" src="htt- name: Setup Node
+uses: actions/setup-node@v1
+with:
+          node-version: 14.x
+          node-version: 20.x
+
+- name: Install dependencies
+run: yarn install --frozen-lockfileps://github-readme-stats.vercel.app/api?username=allwin303&show_icons=true&locale=en" alt="allwin303" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allwin303&" alt="allwin303" /></p>
