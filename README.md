@@ -18,7 +18,15 @@
   <img src="https://github.com/user-attachments/assets/68ec0b7e-8d25-4a40-9f32-7c8dab92ddcc" width="300" alt="Image" />
 </p>
 
+<h2 align="left">About me</h2>
 
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h2>
 ###
 
 <div align="center">
@@ -76,18 +84,4 @@
 </picture>
 
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
