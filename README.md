@@ -28,11 +28,19 @@
 
 ###
 
-<div align="center">
-  <img src="https://www.linkedin.com/in/allwin-g//img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https:https://x.com/Allwin303?t=3jF5MnfPb0S-gKQNCKapcw&s=09//img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25"alt="twitter logo"  />
-  <img src="mail:allwingeorge396@gmail.com//img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="g mail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+<!-- Social Icons -->
+<p style="margin-top: 20px;">
+    <a href="mailto:allwingeorge396@gmail.com">
+        <img src="https://img.icons8.com/ios-glyphs/30/2bd4a3/new-post.png" style="margin-right: 12px;"/>
+    </a>
+    <a href="https://www.linkedin.com/in/allwin-g-6a2303332VanityURLnameutm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+        <img src="https://img.icons8.com/ios-glyphs/30/2bd4a3/linkedin.png" style="margin-right: 12px;"/>
+    </a>
+    <a href="https://www.instagram.com/all_win_._303?igsh=MXFhdWY5Z200bWtvaQ==">
+        <img src="https://img.icons8.com/ios-glyphs/30/2bd4a3/instagram-new.png"/>
+    </a>
+</p>
+
 </div>
 
 ###
