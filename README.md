@@ -7,6 +7,10 @@
    "AS A SECOND-YEAR B.TECH STUDENT IN ARTIFICIAL INTELLIGENCE AND DATA SCIENCE, I'M ABSOLUTELY LOVING THE JOURNEY! THIS FIELD IS A TREASURE TROVE OF POSSIBILITIES. WHAT EXCITES ME THE MOST IS HARNESSING MACHINE LEARNING AND DATA VISUALIZATION TO TACKLE REAL-WORLD CHALLENGES AND I'M EAGER TO EXPLORE MORE AT STELLA MARY'S COLLEGE OF ENGINEERING."
    </p>
 
+<p align="center">
+  <img src="https:![Image](https://github.com/user-attachments/assets/68ec0b7e-8d25-4a40-9f32-7c8dab92ddcc)//github.com/your-username/your-username/blob/main/profile-pic.png" width="200" />
+</p>
+
 ###
 
 <div align="center">
