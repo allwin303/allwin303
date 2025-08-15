@@ -77,10 +77,15 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[allwin303]/[allwin303]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[allwin303]/[allwin303]/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/[allwin303]/[allwin303]/output/pacman-contribution-graph.svg">
+</picture>
 
- <p align="center">
-     <img src="https://github.com/allwin303-ctrl/allwin303-ctrl/blob/output/picman.svg" alt="picman animation">
-   </p>
+_generated with [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)_
+
+
 
 
 <div align="center">
