@@ -83,8 +83,6 @@
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/[allwin303]/[allwin303]/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)_
-
 
 
 
