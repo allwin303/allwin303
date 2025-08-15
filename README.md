@@ -77,11 +77,10 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[allwin303]/[allwin303]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[allwin303]/[allwin303]/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/[allwin303]/[allwin303]/output/pacman-contribution-graph.svg">
-</picture>
+### 🐍 Snake Animation Preview
+
+![Snake Animation](https://github.com/allwin303/ALLWIN G/blob/main/snake.gif)
+
 
 
 
