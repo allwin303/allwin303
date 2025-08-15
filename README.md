@@ -10,8 +10,15 @@
 <h2 align="centre">G.Allwin..</h2>
 
 <div align="center">
-   <p style="color:golden; font-size: 15px; line-height: 1.8; text-align: justify; max-width: 650px;">
-   "AS A SECOND-YEAR B.TECH STUDENT IN ARTIFICIAL INTELLIGENCE AND DATA SCIENCE, I'M ABSOLUTELY LOVING THE JOURNEY! THIS FIELD IS A TREASURE TROVE OF POSSIBILITIES. WHAT EXCITES ME THE MOST IS HARNESSING MACHINE LEARNING AND DATA VISUALIZATION TO TACKLE REAL-WORLD CHALLENGES AND I'M EAGER TO EXPLORE MORE AT STELLA MARY'S COLLEGE OF ENGINEERING."
+   <p style="color:golden; font-size: 15px; line-height: 1.8; text-align: justify; max-width: 650px;"
+
+> As a second-year B.Tech student in Artificial Intelligence and Data Science, I’m thrilled by the endless possibilities this field offers. I’m especially passionate about using machine learning and data visualization to solve real-world problems, and I’m eager to deepen my learning at Stella Mary’s College of Engineering.
+
+
+
+Do you want me to also make it sound more professional and internship-ready?
+
+
    </p>
 
 <p align="center">
@@ -81,13 +88,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-## My Contribution Graph – Pac-Man Edition
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allwin303/allwin303/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/allwin303/allwin303/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/allwin303/allwin303/output/pacman-contribution-graph.svg">
-</picture>
 
 
 <h3 align="center">Thank You: 👋......</h3>
