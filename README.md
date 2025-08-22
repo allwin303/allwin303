@@ -16,7 +16,6 @@
 
 
 
-Do you want me to also make it sound more professional and internship-ready?
 
 
    </p>
